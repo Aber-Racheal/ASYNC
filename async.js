@@ -33,7 +33,7 @@ fetchAndLogUserData(userIds);
 const result = true;
 const ourPromise = new Promise((resolve, reject)=>{
     if(result){
-        resolve ("Get a dollars job before graduation");
+        resolve ("Get my dream dollars job before graduation");
     }
     else{
        reject("Task not successful")
